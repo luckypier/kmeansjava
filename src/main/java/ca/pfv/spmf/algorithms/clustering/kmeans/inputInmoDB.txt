@@ -1,0 +1,60 @@
+@NAME=Instance1
+129 1
+@NAME=Instance2
+97 2
+@NAME=Instance3
+195 2
+@NAME=Instance4
+43 3
+@NAME=Instance5
+76 1
+@NAME=Instance6
+162 6
+@NAME=Instance7
+190 4
+@NAME=Instance8
+71 3
+@NAME=Instance9
+39 5
+@NAME=Instance10
+38 4
+@NAME=Instance11
+249 1
+@NAME=Instance12
+234 5
+@NAME=Instance13
+134 2
+@NAME=Instance14
+89 5
+@NAME=Instance15
+114 6
+@NAME=Instance16
+63 5
+@NAME=Instance17
+86 6
+@NAME=Instance18
+62 2
+@NAME=Instance19
+184 3
+@NAME=Instance20
+193 5
+@NAME=Instance21
+157 5
+@NAME=Instance22
+38 3
+@NAME=Instance23
+195 4
+@NAME=Instance24
+48 4
+@NAME=Instance25
+69 2
+@NAME=Instance26
+110 6
+@NAME=Instance27
+241 4
+@NAME=Instance28
+241 3
+@NAME=Instance29
+135 4
+@NAME=Instance30
+61 6

@@ -1,0 +1,43 @@
+
+========== KMEANS - SPMF 2.09 - STATS ============
+ Distance function: euclidian
+ Total time ~: 6 ms
+ SSE (Sum of Squared Errors) (lower is better) : 12584.125
+ Max memory:5.006980895996094 mb 
+ Iteration count: 4
+=====================================
+Cluster 0
+   Instance22 2.0 248.0 1.0
+   Instance26 2.0 242.0 4.0
+   Instance1 2.0 241.0 1.0
+   Instance15 1.0 243.0 1.0
+   Instance17 2.0 219.0 5.0
+   Instance19 2.0 235.0 1.0
+   Instance27 2.0 245.0 1.0
+   Instance28 1.0 242.0 1.0
+Cluster 1
+   Instance8 2.0 38.0 4.0
+   Instance9 2.0 35.0 3.0
+   Instance11 1.0 34.0 5.0
+   Instance13 1.0 30.0 4.0
+   Instance16 2.0 49.0 6.0
+   Instance24 1.0 47.0 2.0
+   Instance30 1.0 53.0 5.0
+   Instance3 2.0 56.0 1.0
+   Instance5 2.0 73.0 3.0
+   Instance6 1.0 57.0 2.0
+   Instance10 1.0 73.0 3.0
+   Instance21 2.0 63.0 2.0
+   Instance29 1.0 60.0 2.0
+   Instance2 1.0 98.0 5.0
+Cluster 2
+   Instance4 1.0 143.0 4.0
+   Instance7 1.0 106.0 1.0
+   Instance12 1.0 184.0 4.0
+   Instance14 1.0 193.0 1.0
+   Instance18 1.0 176.0 4.0
+   Instance20 2.0 120.0 4.0
+   Instance23 1.0 184.0 3.0
+   Instance25 2.0 142.0 4.0
+
+Process finished with exit code 0

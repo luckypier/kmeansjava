@@ -6,6 +6,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * http://data-mining.philippe-fournier-viger.com/introduction-clustering-k-means-java-code/b5-2/
  * http://www.philippe-fournier-viger.com/spmf/index.php?link=download.php
+ *
+ *
+ * MainTestKMeans_saveToMemory
+ * AlgoKMeans
+ * AlgoBisectingKMeans
+ * configKmeans.txt
  */
 @SpringBootApplication
 public class ClusteringApplication {
